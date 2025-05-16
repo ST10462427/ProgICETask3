@@ -35,6 +35,5 @@
         <TextBox HorizontalAlignment="Left" Height="27" Margin="18,238,0,0" TextWrapping="Wrap" Text="Street Addresss" VerticalAlignment="Top" Width="757"/>
         <TextBox HorizontalAlignment="Left" Height="27" Margin="18,270,0,0" TextWrapping="Wrap" Text="City" VerticalAlignment="Top" Width="186"/>
         <TextBox HorizontalAlignment="Left" Height="27" Margin="400,270,0,0" TextWrapping="Wrap" Text="Postal Code" VerticalAlignment="Top" Width="172"/>
-        <Button Content="Submit" Click="SubmitButton_Click" HorizontalAlignment="Left" Margin="300,320,0,0" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Window>
